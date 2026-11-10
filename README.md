@@ -4,6 +4,8 @@ Projeto pessoal em Python para praticar cadastro de produtos, movimentacoes de e
 
 O banco fica em um arquivo SQLite na maquina. O repositorio nao envia dados para servicos externos; o exemplo nao contem informacoes reais.
 
+Este projeto foi preparado com apoio de IA como material inicial de portfólio. Revise e compreenda o código antes de adaptá-lo ou apresentá-lo.
+
 ## Recursos
 
 - Cadastra produtos com codigo unico e estoque minimo.
